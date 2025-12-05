@@ -1,0 +1,101 @@
+﻿word,word_en,score
+电极,electrode,12.788139
+薄膜,thin film,10.207703
+发光,emission,10.00458
+晶体管,transistor,9.641402
+像素,pixel,9.446534
+金属,metal,7.754779
+栅极,gate,7.695136
+导电,conductive,7.670051
+芯片,chip,7.366104
+封装,packaging,7.214915
+有机,organic,6.946888
+面板,panel,6.758101
+器件,device,6.324077
+半导体,semiconductor,5.537474
+有源,active,5.380829
+漏极,drain,4.517712
+图形,shape,3.844667
+刻蚀,etching,3.561136
+透明,transparent,3.233244
+钝化,passivation,3.075921
+OLED,OLED,2.782403
+漏电,leakage,2.5745
+数据线,data line,2.526621
+引脚,pin,2.497054
+驱动,driving,2.48319
+二极管,diode,2.443331
+掺杂,doping,2.41991
+沟道,channel,2.351191
+氧化物,oxide,2.134338
+TFT,TFT,2.127592
+保护层,protective layer,2.091352
+阴极,cathode,2.090792
+阻挡层,blocking layer,2.06376
+阳极,anode,1.992902
+无机,inorganic,1.878888
+引线,lead,1.785714
+掩膜,mask,1.774507
+元件,component,1.764198
+导体,conductor,1.758537
+电路,circuit,1.719176
+电缆,cable,1.702768
+柔性,flexible,1.702052
+沉积,deposition,1.614961
+基底,substrate,1.609306
+凹槽,groove,1.601116
+扩散,diffusion,1.56494
+LED,LED,1.556381
+遮光,light blocking,1.539875
+图案,pattern,1.535524
+屏蔽,shielding,1.519777
+电致发光,electroluminescence,1.507
+空穴,hole,1.501565
+正投影,front projection,1.457327
+光刻胶,photoresist,1.375291
+电池,cell,1.257015
+公共,common,1.242838
+量子,quantum,1.239037
+通孔,via,1.232053
+多晶硅,polysilicon,1.225972
+介质,dielectric,1.206949
+电镀,electroplating,1.19197
+焊盘,pad,1.133896
+线路,wiring,1.121186
+外延,epitaxy,1.103697
+界定,demarcation,1.10187
+作业,operation,1.101118
+基岛,island,1.094297
+弯曲,bending,1.093785
+功率,power,1.078371
+矩阵,matrix,1.050563
+辅助,auxiliary,1.007865
+剥离,stripping,1.007518
+电容,capacitor,1.00289
+缓冲,buffer,0.987847
+出光,light extraction,0.968374
+传输层,transport layer,0.920144
+光学,optical,0.915136
+定义,definition,0.900321
+阻燃,flame-retardant,0.890794
+平坦,planar,0.851977
+太阳能,solar,0.841445
+第四,fourth,0.825782
+阻隔,barrier,0.817938
+凸起,protrusion,0.798975
+玻璃,glass,0.798786
+保留,retention,0.793848
+背板,backplane,0.779642
+导线,wire,0.770596
+边框,bezel,0.764083
+检测,detection,0.760536
+触控,touch,0.754863
+阻挡,blocking,0.750406
+折射率,refractive index,0.736257
+反射层,reflective layer,0.733819
+快速,fast,0.720202
+水汽,water vapor,0.712556
+载体,carrier,0.698186
+沟槽,trench,0.691279
+原子,atom,0.684478
+界面,interface,0.680439
